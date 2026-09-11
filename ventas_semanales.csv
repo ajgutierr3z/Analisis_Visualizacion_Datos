@@ -1,0 +1,9 @@
+Fecha,ID_Transaccion,Producto,Categoria,Precio_Unitario,Cantidad,Metodo_Pago
+2023-10-01,1001,Laptop Pro 15,Electronica,1200.50,1,Tarjeta
+2023-10-01,1002,Raton Inalambrico,Accesorios,25.00,2,Efectivo
+2023-10-02,1003,Monitor 27in,,250.00,1,Tarjeta
+2023-10-02,1004,Teclado Mecanico,Accesorios,85.50,1,
+2023-10-03,1005,Laptop Pro 15,Electronica,1200.50,2,Transferencia
+2023-10-03,1006,Raton Inalambrico,Accesorios,25.00,5,Tarjeta
+2023-10-04,1007,Auriculares Bluetooth,Electronica,,1,Efectivo
+2023-10-04,1008,Soporte para Laptop,Accesorios,30.00,3,Tarjeta
