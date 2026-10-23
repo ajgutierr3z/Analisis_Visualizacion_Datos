@@ -1,0 +1,11 @@
+ID_Pedido,Fecha,Producto,Categoria,Precio_Unitario,Cantidad,Calificacion_Cliente
+1001,2023-10-01,Laptop Pro,Electronica,1200.50,1,4.5
+1002,02/10/2023,Raton Inalambrico,Electronica,25.00,2,5.0
+1003,2023-10-03,Teclado Mecanico,Electronica,85.00,1,
+1004,2023-10-03,Silla Ergonomica,Mobiliario,-150.00,1,4.8
+1005,04/10/2023,Monitor 27,Electronica,300.00,2,4.2
+1006,2023-10-05,Escritorio,Mobiliario,200.00,,3.9
+1007,2023-10-06,Audifonos,Electronica,50.00,3,4.9
+1008,2023-10-06,Audifonos,Electronica,50.00,3,4.9
+1009,2023-10-08,Soporte Monitor,Mobiliario,35.50,1,
+1010,10/10/2023,Laptop Pro,Electronica,12000.50,1,1.5
