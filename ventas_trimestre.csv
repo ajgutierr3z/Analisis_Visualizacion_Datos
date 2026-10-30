@@ -1,0 +1,13 @@
+ID_Transaccion,Fecha,Categoria,Producto,Region,Cantidad,Precio_Unitario,Descuento_Aplicado
+TRX-1001,2023-09-01,Hardware,Laptop Pro 15,Norte,5,1200.00,0.05
+TRX-1002,2023-09-03,Periféricos,Monitor 27K,Sur,12,300.00,0.10
+TRX-1003,2023-09-05,Mobiliario,Silla Ergonómica,Este,8,150.00,0.00
+TRX-1004,2023-09-10,Hardware,Tablet X,Norte,15,450.00,0.05
+TRX-1005,2023-09-12,Periféricos,Teclado Mecánico,Oeste,20,80.00,0.00
+TRX-1006,2023-09-15,Mobiliario,Escritorio Ajustable,Sur,4,350.00,0.15
+TRX-1007,2023-09-18,Hardware,Laptop Pro 15,Este,7,1200.00,0.00
+TRX-1008,2023-09-20,Software,Licencia Antivirus,Norte,50,45.00,0.20
+TRX-1009,2023-09-22,Periféricos,Monitor 27K,Oeste,9,300.00,0.05
+TRX-1010,2023-09-25,Mobiliario,Silla Ergonómica,Sur,11,150.00,0.10
+TRX-1011,2023-09-28,Software,Suite Ofimática,Este,30,120.00,0.00
+TRX-1012,2023-09-30,Hardware,Tablet X,Oeste,25,450.00,0.15
